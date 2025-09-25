@@ -1,1 +1,1 @@
-This project is a simple implementation of the classic Ping Pong (Pong) game using Python and the Pygame library. The game features two paddles and a bouncing ball, where the left paddle is controlled by the player and the right paddle can be controlled either manually or through a simple AI.
+
